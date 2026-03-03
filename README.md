@@ -1,4 +1,4 @@
 # project-demo
 this is my  git repository
 <br>
-Author - bhakkti dhananjay jadhav
+Author - bhakkti (dhananjay jadhav)
